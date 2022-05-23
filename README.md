@@ -1,4 +1,6 @@
 # Instagram_clone
 ## This is an Instagram clone which I created using html and css
 
-![insta-pic](https://user-images.githubusercontent.com/80666490/169805807-8ce6af0f-5f94-458c-9dc2-3cd07572f71b.jpg)
+![Screenshot (41)](https://user-images.githubusercontent.com/80666490/169806174-5e3b3144-8995-474a-8b5f-3b0c061bbcaf.png)
+
+
